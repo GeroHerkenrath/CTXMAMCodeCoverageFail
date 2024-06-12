@@ -1,0 +1,36 @@
+{
+  "configurations" : [
+    {
+      "id" : "78813C79-9399-4493-956A-5522DAFA1A92",
+      "name" : "Test Scheme Action",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "targetForVariableExpansion" : {
+      "containerPath" : "container:CTXMAMCodeCoverageFail.xcodeproj",
+      "identifier" : "C539C2B92C19C567005BDED0",
+      "name" : "CTXMAMCodeCoverageFail"
+    },
+    "testExecutionOrdering" : "random"
+  },
+  "testTargets" : [
+    {
+      "target" : {
+        "containerPath" : "container:CTXMAMCodeCoverageFail.xcodeproj",
+        "identifier" : "C539C2CF2C19C56B005BDED0",
+        "name" : "CTXMAMCodeCoverageFailTests"
+      }
+    },
+    {
+      "target" : {
+        "containerPath" : "container:CTXMAMCodeCoverageFail.xcodeproj",
+        "identifier" : "C539C2D92C19C56B005BDED0",
+        "name" : "CTXMAMCodeCoverageFailUITests"
+      }
+    }
+  ],
+  "version" : 1
+}

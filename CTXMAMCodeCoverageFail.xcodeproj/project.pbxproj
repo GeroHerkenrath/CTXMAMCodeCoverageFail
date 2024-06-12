@@ -49,6 +49,7 @@
 		C539C2DA2C19C56B005BDED0 /* CTXMAMCodeCoverageFailUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CTXMAMCodeCoverageFailUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		C539C2DE2C19C56B005BDED0 /* CTXMAMCodeCoverageFailUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CTXMAMCodeCoverageFailUITests.swift; sourceTree = "<group>"; };
 		C539C2E02C19C56B005BDED0 /* CTXMAMCodeCoverageFailUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CTXMAMCodeCoverageFailUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		C539C2ED2C19C819005BDED0 /* CTXMAMCodeCoverageFail.xctestplan */ = {isa = PBXFileReference; lastKnownFileType = text; path = CTXMAMCodeCoverageFail.xctestplan; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +80,7 @@
 		C539C2B12C19C567005BDED0 = {
 			isa = PBXGroup;
 			children = (
+				C539C2ED2C19C819005BDED0 /* CTXMAMCodeCoverageFail.xctestplan */,
 				C539C2BC2C19C567005BDED0 /* CTXMAMCodeCoverageFail */,
 				C539C2D32C19C56B005BDED0 /* CTXMAMCodeCoverageFailTests */,
 				C539C2DD2C19C56B005BDED0 /* CTXMAMCodeCoverageFailUITests */,

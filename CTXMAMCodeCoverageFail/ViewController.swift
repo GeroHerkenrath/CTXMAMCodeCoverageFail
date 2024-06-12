@@ -14,6 +14,8 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view.
     }
 
-
+    func functionToTest(x: Int, y: Int) -> Int {
+        return x + y
+    }
 }
 
