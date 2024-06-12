@@ -1,0 +1,30 @@
+/* Localized versions of Info.plist keys */
+"Confirm your identity. Use Face ID for quick and secure access to the app." = "신원을 확인하십시오. Face ID를 사용하면 앱에 빠르고 안전하게 액세스할 수 있습니다.";
+"Confirm your identity. Scan your finger for quick and secure access to the app." = "신원을 확인하십시오. 지문을 스캔하면 앱에 빠르고 안전하게 액세스할 수 있습니다.";
+// AML Errors start
+"An unexpected error occurred." = "예기치 않은 오류가 발생했습니다.";
+"An internal error occurred." = "내부 오류가 발생했습니다.";
+"An invalid argument was passed." = "잘못된 인수가 전달되었습니다.";
+"The server responded with an unexpected content type value." = "서버가 예기치 않은 콘텐츠 형식 값으로 응답했습니다.";
+"The server responded with an unexpected HTTP status code." = "서버가 예기치 않은 HTTP 상태 코드로 응답했습니다.";
+"The server responded with an unexpected HTTP data value." = "서버가 예기치 않은 HTTP 데이터 값으로 응답했습니다.";
+"Encountered an unexpected server configuration." = "예기치 않은 서버 구성이 발생했습니다.";
+"A parsing error occurred." = "구문 분석 오류가 발생했습니다.";
+"An error occurred and the authentication view cannot be displayed." = "오류가 발생하여 인증 보기를 표시할 수 없습니다.";
+"You have closed the authentication view." = "인증 보기를 닫았습니다.";
+"The network request has failed." = "네트워크 요청이 실패했습니다.";
+"The app denied the access to the authentication view." = "앱에서 인증 보기에 대한 액세스를 거부했습니다.";
+"Network request failed" = "네트워크 요청 실패";
+"The Web view navigation has failed." = "웹 보기 탐색에 실패했습니다.";
+"Your request to fetch the token was canceled." = "토큰 가져오기 요청이 취소되었습니다.";
+"Encountered an invalid OpenID Connect (OIDC) authorization code." = "잘못된 OpenID Connect(OIDC) 인증 코드가 발생했습니다.";
+"Biometric authentication has failed." = "생체 인증에 실패했습니다.";
+"Biometric authentication is not supported." = "생체 인증이 지원되지 않습니다.";
+"Biometric authentication has failed due to inactivity." = "비활성 상태로 인해 생체 인증에 실패했습니다.";
+"The operation was canceled." = "작업이 취소되었습니다.";
+// AML Errors end
+//OfflineModeBanner messages start
+
+"Having trouble signing in?" = "로그인하는 데 문제가 있습니까?";
+"Use Workspace offline" = "오프라인으로 Workspace 사용";
+//OfflineModeBanner messages end

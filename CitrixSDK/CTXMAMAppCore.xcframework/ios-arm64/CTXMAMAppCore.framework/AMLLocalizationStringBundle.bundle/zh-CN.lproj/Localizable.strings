@@ -1,0 +1,29 @@
+/* Localized versions of Info.plist keys */
+"Confirm your identity. Use Face ID for quick and secure access to the app." = "确认您的身份。请使用面容 ID 以便快速安全地访问应用程序。";
+"Confirm your identity. Scan your finger for quick and secure access to the app." = "确认您的身份。请扫描您的手指以便快速安全地访问应用程序。";
+// AML Errors start
+"An unexpected error occurred." = "发生意外错误。";
+"An internal error occurred." = "发生内部错误。";
+"An invalid argument was passed." = "传递的参数无效。";
+"The server responded with an unexpected content type value." = "服务器已使用非预期的内容类型值进行响应。";
+"The server responded with an unexpected HTTP status code." = "服务器已使用非预期的 HTTP 状态代码进行响应。";
+"The server responded with an unexpected HTTP data value." = "服务器已使用非预期的 HTTP 数据值进行响应。";
+"Encountered an unexpected server configuration." = "遇到意外的服务器配置。";
+"A parsing error occurred." = "发生解析错误。";
+"An error occurred and the authentication view cannot be displayed." = "发生错误，并且无法显示身份验证视图。";
+"You have closed the authentication view." = "您已关闭身份验证视图。";
+"The network request has failed." = "网络请求失败。";
+"The app denied the access to the authentication view." = "该应用程序已拒绝访问身份验证视图。";
+"Network request failed" = "网络请求失败";
+"The Web view navigation has failed." = "Web 视图导航失败。";
+"Your request to fetch the token was canceled." = "您要求提取令牌的请求已被取消。";
+"Encountered an invalid OpenID Connect (OIDC) authorization code." = "遇到无效的 OpenID Connect (OIDC)授权代码。";
+"Biometric authentication has failed." = "生物特征身份验证失败。";
+"Biometric authentication is not supported." = "不支持生物特征身份认证。";
+"Biometric authentication has failed due to inactivity." = "由于处于非活动状态，生物特征身份验证失败。";
+"The operation was canceled." = "该操作已取消。";
+// AML Errors end
+//OfflineModeBanner messages start
+"Having trouble signing in?" = "登录时遇到问题?";
+"Use Workspace offline" = "脱机使用 Workspace";
+//OfflineModeBanner messages end

@@ -1,0 +1,29 @@
+/* Localized versions of Info.plist keys */
+"Confirm your identity. Use Face ID for quick and secure access to the app." = "Bevestig uw identiteit. Gebruik Face ID om snel en veilig toegang te krijgen tot de app.";
+"Confirm your identity. Scan your finger for quick and secure access to the app." = "Bevestig uw identiteit. Scan uw vinger om snel en veilig toegang te krijgen tot de app.";
+// AML Errors start
+"An unexpected error occurred." = "Er is een onverwachte fout opgetreden.";
+"An internal error occurred." = "Er is een interne fout opgetreden.";
+"An invalid argument was passed." = "Er is een ongeldig argument doorgegeven.";
+"The server responded with an unexpected content type value." = "De server reageerde met een onverwachte waarde voor het inhoudstype.";
+"The server responded with an unexpected HTTP status code." = "De server reageerde met een onverwachte HTTP-statuscode.";
+"The server responded with an unexpected HTTP data value." = "De server reageerde met een onverwachte HTTP-gegevenswaarde.";
+"Encountered an unexpected server configuration." = "Onverwachte serverconfiguratie aangetroffen.";
+"A parsing error occurred." = "Er is een parseerfout opgetreden.";
+"An error occurred and the authentication view cannot be displayed." = "Er is een fout opgetreden en de verificatieweergave kan niet worden weergegeven.";
+"You have closed the authentication view." = "U hebt de verificatieweergave gesloten.";
+"The network request has failed." = "De netwerkaanvraag is mislukt.";
+"The app denied the access to the authentication view." = "De app heeft de toegang tot de verificatieweergave geweigerd.";
+"Network request failed" = "Netwerkaanvraag mislukt";
+"The Web view navigation has failed." = "Navigatie in de webweergave is mislukt.";
+"Your request to fetch the token was canceled." = "Uw aanvraag om het token op te halen is geannuleerd.";
+"Encountered an invalid OpenID Connect (OIDC) authorization code." = "Er is een ongeldige OpenID Connect-autorisatiecode (OIDC) aangetroffen.";
+"Biometric authentication has failed." = "Biometrische verificatie is mislukt.";
+"Biometric authentication is not supported." = "Biometrische verificatie wordt niet ondersteund.";
+"Biometric authentication has failed due to inactivity." = "Biometrische verificatie is mislukt vanwege inactiviteit.";
+"The operation was canceled." = "De bewerking is geannuleerd.";
+// AML Errors end
+//OfflineModeBanner messages start
+"Having trouble signing in?" = "Heeft u problemen met aanmelden?";
+"Use Workspace offline" = "Workspace offline gebruiken";
+//OfflineModeBanner messages end

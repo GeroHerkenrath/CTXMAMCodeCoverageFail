@@ -1,0 +1,30 @@
+/* Localized versions of Info.plist keys */
+"Confirm your identity. Use Face ID for quick and secure access to the app." = "本人確認を行います。アプリにすばやく安全にアクセスするには、Face ID を使用します。";
+"Confirm your identity. Scan your finger for quick and secure access to the app." = "本人確認を行います。アプリにすばやく安全にアクセスするには、指をスキャンします。";
+// AML Errors start
+"An unexpected error occurred." = "予期しないエラーが発生しました。";
+"An internal error occurred." = "内部エラーが発生しました。";
+"An invalid argument was passed." = "無効な引数が渡されました。";
+"The server responded with an unexpected content type value." = "サーバーが予期しないコンテンツ タイプ値で応答しました。";
+"The server responded with an unexpected HTTP status code." = "サーバーが予期しない HTTP 状態コードで応答しました。";
+"The server responded with an unexpected HTTP data value." = "サーバーが予期しない HTTP データ値で応答しました。";
+"Encountered an unexpected server configuration." = "予期しないサーバー構成が検出されました。";
+"A parsing error occurred." = "解析エラーが発生しました。";
+"An error occurred and the authentication view cannot be displayed." = "エラーが発生したため、認証ビューを表示できません。";
+"You have closed the authentication view." = "認証ビューを閉じました。";
+"The network request has failed." = "ネットワーク要求が失敗しました。";
+"The app denied the access to the authentication view." = "アプリにより認証ビューへのアクセスが拒否されました。";
+"Network request failed" = "ネットワーク要求が失敗しました";
+"The Web view navigation has failed." = "Web ビューのナビゲーションに失敗しました。";
+"Your request to fetch the token was canceled." = "トークン取得要求がキャンセルされました。";
+"Encountered an invalid OpenID Connect (OIDC) authorization code." = "無効な OpenID Connect (OIDC) 認証コードが検出されました。";
+"Biometric authentication has failed." = "生体認証に失敗しました。";
+"Biometric authentication is not supported." = "生体認証はサポートされていません。";
+"Biometric authentication has failed due to inactivity." = "非アクティブ状態のため、生体認証に失敗しました。";
+"The operation was canceled." = "処理がキャンセルされました。";
+// AML Errors end
+//OfflineModeBanner messages start
+
+"Having trouble signing in?" = "サインインできない場合:";
+"Use Workspace offline" = "Workspace をオフラインで使用する";
+//OfflineModeBanner messages end

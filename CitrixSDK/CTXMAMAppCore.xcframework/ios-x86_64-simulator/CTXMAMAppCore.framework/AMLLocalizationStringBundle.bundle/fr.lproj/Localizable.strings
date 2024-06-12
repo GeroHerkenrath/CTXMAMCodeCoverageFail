@@ -1,0 +1,29 @@
+/* Localized versions of Info.plist keys */
+"Confirm your identity. Use Face ID for quick and secure access to the app." = "Confirmez votre identité. Utilisez Face ID pour accéder rapidement et en toute sécurité à l'application.";
+"Confirm your identity. Scan your finger for quick and secure access to the app." = "Confirmez votre identité. Scannez votre doigt pour accéder rapidement et en toute sécurité à l'application.";
+// AML Errors start
+"An unexpected error occurred." = "Une erreur inattendue s'est produite.";
+"An internal error occurred." = "Une erreur interne s'est produite.";
+"An invalid argument was passed." = "Un argument non valide a été transmis.";
+"The server responded with an unexpected content type value." = "Le serveur a répondu avec une valeur de type de contenu inattendue.";
+"The server responded with an unexpected HTTP status code." = "Le serveur a répondu avec un code d'état HTTP inattendu.";
+"The server responded with an unexpected HTTP data value." = "Le serveur a répondu avec une valeur de données HTTP inattendue.";
+"Encountered an unexpected server configuration." = "Une configuration de serveur inattendue a été rencontrée.";
+"A parsing error occurred." = "Une erreur d'analyse s'est produite.";
+"An error occurred and the authentication view cannot be displayed." = "Une erreur s'est produite et la vue d'authentification ne peut pas être affichée.";
+"You have closed the authentication view." = "Vous avez fermé la vue d'authentification.";
+"The network request has failed." = "La demande réseau a échoué.";
+"The app denied the access to the authentication view." = "L'application a refusé l'accès à la vue d'authentification.";
+"Network request failed" = "Échec de la demande réseau";
+"The Web view navigation has failed." = "La navigation dans la vue Web a échoué.";
+"Your request to fetch the token was canceled." = "Votre demande de récupération du jeton a été annulée.";
+"Encountered an invalid OpenID Connect (OIDC) authorization code." = "Un code d'autorisation OpenID Connect (OIDC) non valide a été rencontré.";
+"Biometric authentication has failed." = "L'authentification biométrique a échoué.";
+"Biometric authentication is not supported." = "L'authentification biométrique n'est pas prise en charge.";
+"Biometric authentication has failed due to inactivity." = "L'authentification biométrique a échoué pour cause d'inactivité.";
+"The operation was canceled." = "Opération annulée.";
+// AML Errors end
+//OfflineModeBanner messages start
+"Having trouble signing in?" = "Vous rencontrez des difficultés à vous connecter ?";
+"Use Workspace offline" = "Utiliser Workspace hors ligne";
+//OfflineModeBanner messages end

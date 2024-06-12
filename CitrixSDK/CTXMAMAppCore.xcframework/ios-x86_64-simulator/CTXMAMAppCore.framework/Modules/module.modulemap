@@ -1,0 +1,11 @@
+framework module CTXMAMAppCore {
+  umbrella header "CTXMAMAppCore.h"
+
+  export *
+  module * { export * }
+}
+
+module CTXMAMAppCore.Swift {
+  header "CTXMAMAppCore-Swift.h"
+  requires objc
+}

@@ -1,0 +1,6 @@
+framework module CTXMAMContainment {
+  umbrella header "CTXMAMContainment.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,6 @@
+framework module CTXMAMCompliance {
+  umbrella header "CTXMAMCompliance.h"
+
+  export *
+  module * { export * }
+}

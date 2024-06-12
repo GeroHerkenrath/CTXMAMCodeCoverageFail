@@ -1,0 +1,29 @@
+/* Localized versions of Info.plist keys */
+"Confirm your identity. Use Face ID for quick and secure access to the app." = "確認您的身分。使用 Face ID 快速、安全地存取應用程式。";
+"Confirm your identity. Scan your finger for quick and secure access to the app." = "確認您的身分。掃描您的手指，快速、安全地存取應用程式。";
+// AML Errors start
+"An unexpected error occurred." = "發生未預期的錯誤。";
+"An internal error occurred." = "發生內部錯誤。";
+"An invalid argument was passed." = "傳遞了無效的引數。";
+"The server responded with an unexpected content type value." = "伺服器回應了未預期的內容類型值。";
+"The server responded with an unexpected HTTP status code." = "伺服器回應了未預期的 HTTP 狀態碼。";
+"The server responded with an unexpected HTTP data value." = "伺服器回應了未預期的 HTTP 資料值。";
+"Encountered an unexpected server configuration." = "遇到未預期的伺服器組態。";
+"A parsing error occurred." = "發生剖析錯誤。";
+"An error occurred and the authentication view cannot be displayed." = "發生錯誤，無法顯示驗證視圖。";
+"You have closed the authentication view." = "您已關閉驗證視圖。";
+"The network request has failed." = "網路要求失敗。";
+"The app denied the access to the authentication view." = "應用程式拒絕對驗證視圖的存取。";
+"Network request failed" = "網路要求失敗";
+"The Web view navigation has failed." = "Web 視圖導覽失敗。";
+"Your request to fetch the token was canceled." = "您擷取權杖的要求已取消。";
+"Encountered an invalid OpenID Connect (OIDC) authorization code." = "遇到無效的 OpenID 連線 (OIDC) 授權碼。";
+"Biometric authentication has failed." = "生物識別驗證失敗。";
+"Biometric authentication is not supported." = "不支援生物識別驗證。";
+"Biometric authentication has failed due to inactivity." = "由於處於非使用狀態，生物識別驗證失敗。";
+"The operation was canceled." = "作業已取消。";
+// AML Errors end
+//OfflineModeBanner messages start
+"Having trouble signing in?" = "登入時發生問題?";
+"Use Workspace offline" = "離線使用 Workspace";
+//OfflineModeBanner messages end

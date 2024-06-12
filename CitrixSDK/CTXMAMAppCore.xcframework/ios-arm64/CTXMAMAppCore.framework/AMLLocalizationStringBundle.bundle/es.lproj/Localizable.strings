@@ -1,0 +1,29 @@
+/* Localized versions of Info.plist keys */
+"Confirm your identity. Use Face ID for quick and secure access to the app." = "Confirme su identidad. Utilice Face ID para acceder de forma rápida y segura a la aplicación.";
+"Confirm your identity. Scan your finger for quick and secure access to the app." = "Confirme su identidad. Escanee su huella digital para acceder de forma rápida y segura a la aplicación.";
+// AML Errors start
+"An unexpected error occurred." = "Se ha producido un error inesperado.";
+"An internal error occurred." = "Error interno.";
+"An invalid argument was passed." = "Se pasó un argumento no válido.";
+"The server responded with an unexpected content type value." = "El servidor respondió con un valor de tipo de contenido inesperado.";
+"The server responded with an unexpected HTTP status code." = "El servidor respondió con un código de estado HTTP inesperado.";
+"The server responded with an unexpected HTTP data value." = "El servidor respondió con un valor de datos HTTP inesperado.";
+"Encountered an unexpected server configuration." = "Se detectó una configuración de servidor inesperada.";
+"A parsing error occurred." = "Error de análisis.";
+"An error occurred and the authentication view cannot be displayed." = "Se ha producido un error y no se puede mostrar la vista de autenticación.";
+"You have closed the authentication view." = "Ha cerrado la vista de autenticación.";
+"The network request has failed." = "Error en la solicitud de red.";
+"The app denied the access to the authentication view." = "La aplicación denegó el acceso a la vista de autenticación.";
+"Network request failed" = "Error en la solicitud de red";
+"The Web view navigation has failed." = "Error en la navegación de la vista web.";
+"Your request to fetch the token was canceled." = "Se canceló su solicitud para obtener el token.";
+"Encountered an invalid OpenID Connect (OIDC) authorization code." = "Se encontró un código de autorización de OpenID Connect (OIDC) no válido.";
+"Biometric authentication has failed." = "Error en la autenticación biométrica.";
+"Biometric authentication is not supported." = "La autenticación biométrica no está disponible.";
+"Biometric authentication has failed due to inactivity." = "Error en la autenticación biométrica por inactividad.";
+"The operation was canceled." = "Se canceló la operación.";
+// AML Errors end
+//OfflineModeBanner messages start
+"Having trouble signing in?" = "¿Tiene problemas para iniciar sesión?";
+"Use Workspace offline" = "Usar Workspace sin conexión";
+//OfflineModeBanner messages end

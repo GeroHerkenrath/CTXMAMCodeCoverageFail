@@ -1,0 +1,6 @@
+framework module CTXMAMLocalAuth {
+  umbrella header "CTXMAMLocalAuth.h"
+
+  export *
+  module * { export * }
+}

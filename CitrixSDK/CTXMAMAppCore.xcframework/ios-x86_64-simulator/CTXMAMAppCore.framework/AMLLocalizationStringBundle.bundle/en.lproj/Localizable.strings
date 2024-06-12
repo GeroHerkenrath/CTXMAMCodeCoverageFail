@@ -1,0 +1,30 @@
+/* Localized versions of Info.plist keys */
+"Confirm your identity. Use Face ID for quick and secure access to the app." = "Confirm your identity. Use Face ID for quick and secure access to the app.";
+"Confirm your identity. Scan your finger for quick and secure access to the app." = "Confirm your identity. Scan your finger for quick and secure access to the app.";
+// AML Errors start
+"An unexpected error occurred." = "An unexpected error occurred.";
+"An internal error occurred." = "An internal error occurred.";
+"An invalid argument was passed." = "An invalid argument was passed.";
+"The server responded with an unexpected content type value." = "The server responded with an unexpected content type value.";
+"The server responded with an unexpected HTTP status code." = "The server responded with an unexpected HTTP status code.";
+"The server responded with an unexpected HTTP data value." = "The server responded with an unexpected HTTP data value.";
+"Encountered an unexpected server configuration." = "Encountered an unexpected server configuration.";
+"A parsing error occurred." = "A parsing error occurred.";
+"An error occurred and the authentication view cannot be displayed." = "An error occurred and the authentication view cannot be displayed.";
+"You have closed the authentication view." = "You have closed the authentication view.";
+"The network request has failed." = "The network request has failed.";
+"The app denied the access to the authentication view." = "The app denied the access to the authentication view.";
+"Network request failed" = "Network request failed";
+"The Web view navigation has failed." = "The Web view navigation has failed.";
+"Your request to fetch the token was canceled." = "Your request to fetch the token was canceled.";
+"Encountered an invalid OpenID Connect (OIDC) authorization code." = "Encountered an invalid OpenID Connect (OIDC) authorization code.";
+"Biometric authentication has failed." = "Biometric authentication has failed.";
+"Biometric authentication is not supported." = "Biometric authentication is not supported.";
+"Biometric authentication has failed due to inactivity." = "Biometric authentication has failed due to inactivity.";
+"The operation was canceled." = "The operation was canceled.";
+// AML Errors end
+
+//OfflineModeBanner messages start
+"Having trouble signing in?" = "Having trouble signing in?";
+"Use Workspace offline" = "Use Workspace offline";
+//OfflineModeBanner messages end

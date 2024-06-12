@@ -1,0 +1,29 @@
+/* Localized versions of Info.plist keys */
+"Confirm your identity. Use Face ID for quick and secure access to the app." = "Bekräfta din identitet. Använd Face ID för snabb och säker åtkomst till appen.";
+"Confirm your identity. Scan your finger for quick and secure access to the app." = "Bekräfta din identitet. Skanna ditt finger för snabb och säker åtkomst till appen.";
+// AML Errors start
+"An unexpected error occurred." = "Ett oväntat fel uppstod.";
+"An internal error occurred." = "Ett internt fel uppstod.";
+"An invalid argument was passed." = "Ett ogiltigt argument överfördes.";
+"The server responded with an unexpected content type value." = "Servern svarade med ett oväntat värde för innehållstyp.";
+"The server responded with an unexpected HTTP status code." = "Servern svarade med en oväntad HTTP-statuskod.";
+"The server responded with an unexpected HTTP data value." = "Servern svarade med ett oväntat HTTP-datavärde.";
+"Encountered an unexpected server configuration." = "En oväntad serverkonfiguration påträffades.";
+"A parsing error occurred." = "Ett tolkningsfel uppstod.";
+"An error occurred and the authentication view cannot be displayed." = "Ett fel uppstod och autentiseringsvyn kan inte visas.";
+"You have closed the authentication view." = "Du har stängt autentiseringsvyn.";
+"The network request has failed." = "Nätverksbegäran misslyckades.";
+"The app denied the access to the authentication view." = "Appen nekade åtkomst till autentiseringsvyn.";
+"Network request failed" = "Nätverksbegäran misslyckades";
+"The Web view navigation has failed." = "Navigeringen i webbvyn misslyckades.";
+"Your request to fetch the token was canceled." = "Din begäran om att hämta token avbröts.";
+"Encountered an invalid OpenID Connect (OIDC) authorization code." = "Påträffade en ogiltig auktoriseringskod för OpenID Connect (OIDC).";
+"Biometric authentication has failed." = "Biometrisk autentisering misslyckades.";
+"Biometric authentication is not supported." = "Biometrisk autentisering stöds inte.";
+"Biometric authentication has failed due to inactivity." = "Biometrisk autentisering misslyckades på grund av inaktivitet.";
+"The operation was canceled." = "Åtgärden avbröts.";
+// AML Errors end
+//OfflineModeBanner messages start
+"Having trouble signing in?" = "Having trouble signing in?";
+"Use Workspace offline" = "Use Workspace offline";
+//OfflineModeBanner messages end

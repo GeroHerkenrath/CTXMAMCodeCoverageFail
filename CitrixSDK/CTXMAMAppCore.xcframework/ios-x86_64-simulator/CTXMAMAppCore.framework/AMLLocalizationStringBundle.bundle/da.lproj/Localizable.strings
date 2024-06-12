@@ -1,0 +1,29 @@
+/* Localized versions of Info.plist keys */
+"Confirm your identity. Use Face ID for quick and secure access to the app." = "Bekræft din identitet. Brug Face ID for at få hurtig og sikker adgang til appen.";
+"Confirm your identity. Scan your finger for quick and secure access to the app." = "Bekræft din identitet. Scan din finger for at få hurtig og sikker adgang til appen.";
+// AML Errors start
+"An unexpected error occurred." = "Der opstod en uventet fejl.";
+"An internal error occurred." = "Der opstod en intern fejl.";
+"An invalid argument was passed." = "Der blev overført et ugyldigt argument.";
+"The server responded with an unexpected content type value." = "Serveren svarede med en uventet værdi for indholdstype.";
+"The server responded with an unexpected HTTP status code." = "Serveren svarede med en uventet værdi for HTTP-statuskode.";
+"The server responded with an unexpected HTTP data value." = "Serveren svarede med en uventet HTTP-dataværdi.";
+"Encountered an unexpected server configuration." = "En uventet serverkonfiguration blev fundet.";
+"A parsing error occurred." = "Der opstod en parsingfejl.";
+"An error occurred and the authentication view cannot be displayed." = "Der opstod en fejl, og godkendelsesvisningen kan ikke vises.";
+"You have closed the authentication view." = "Du har valgt godkendelsesvisningen.";
+"The network request has failed." = "Netværksanmodningen mislykkedes.";
+"The app denied the access to the authentication view." = "Appen nægtede adgangen til godkendelsesvisningen.";
+"Network request failed" = "Netværksanmodningen ikke udført";
+"The Web view navigation has failed." = "Navigation i webvisningen mislykkedes.";
+"Your request to fetch the token was canceled." = "Din anmodning om at hente token blev annulleret.";
+"Encountered an invalid OpenID Connect (OIDC) authorization code." = "Der blev fundet en ugyldig OpenID Connect-godkendelseskode (OIDC).";
+"Biometric authentication has failed." = "Biometrisk godkendelse mislykkedes.";
+"Biometric authentication is not supported." = "Biometrisk godkendelse understøttes ikke.";
+"Biometric authentication has failed due to inactivity." = "Biometrisk godkendelse mislykkedes på grund af inaktivitet.";
+"The operation was canceled." = "Handlingen blev annulleret.";
+// AML Errors end
+//OfflineModeBanner messages start
+"Having trouble signing in?" = "Having trouble signing in?";
+"Use Workspace offline" = "Use Workspace offline";
+//OfflineModeBanner messages end

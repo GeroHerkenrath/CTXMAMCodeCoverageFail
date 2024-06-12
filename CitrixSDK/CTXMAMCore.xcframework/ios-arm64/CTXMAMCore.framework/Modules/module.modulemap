@@ -1,0 +1,6 @@
+framework module CTXMAMCore {
+  umbrella header "CTXMAMCore.h"
+
+  export *
+  module * { export * }
+}

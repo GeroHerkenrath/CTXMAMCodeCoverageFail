@@ -16,6 +16,20 @@
 		C539C2D52C19C56B005BDED0 /* CTXMAMCodeCoverageFailTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C539C2D42C19C56B005BDED0 /* CTXMAMCodeCoverageFailTests.swift */; };
 		C539C2DF2C19C56B005BDED0 /* CTXMAMCodeCoverageFailUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C539C2DE2C19C56B005BDED0 /* CTXMAMCodeCoverageFailUITests.swift */; };
 		C539C2E12C19C56B005BDED0 /* CTXMAMCodeCoverageFailUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C539C2E02C19C56B005BDED0 /* CTXMAMCodeCoverageFailUITestsLaunchTests.swift */; };
+		C539C2F72C19C939005BDED0 /* CitrixLogger.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = C539C2F22C19C933005BDED0 /* CitrixLogger.xcframework */; };
+		C539C2F82C19C939005BDED0 /* CitrixLogger.xcframework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = C539C2F22C19C933005BDED0 /* CitrixLogger.xcframework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
+		C539C2FA2C19C93B005BDED0 /* CTXMAMAppCore.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = C539C2EF2C19C933005BDED0 /* CTXMAMAppCore.xcframework */; };
+		C539C2FB2C19C93B005BDED0 /* CTXMAMAppCore.xcframework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = C539C2EF2C19C933005BDED0 /* CTXMAMAppCore.xcframework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
+		C539C2FC2C19C93D005BDED0 /* CTXMAMCore.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = C539C2F12C19C933005BDED0 /* CTXMAMCore.xcframework */; };
+		C539C2FD2C19C93D005BDED0 /* CTXMAMCore.xcframework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = C539C2F12C19C933005BDED0 /* CTXMAMCore.xcframework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
+		C539C2FE2C19C93E005BDED0 /* CTXMAMNetwork.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = C539C2F02C19C933005BDED0 /* CTXMAMNetwork.xcframework */; };
+		C539C2FF2C19C93E005BDED0 /* CTXMAMNetwork.xcframework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = C539C2F02C19C933005BDED0 /* CTXMAMNetwork.xcframework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
+		C539C3062C19CB0B005BDED0 /* CTXMAMCompliance.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = C539C3012C19CB08005BDED0 /* CTXMAMCompliance.xcframework */; };
+		C539C3072C19CB0B005BDED0 /* CTXMAMCompliance.xcframework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = C539C3012C19CB08005BDED0 /* CTXMAMCompliance.xcframework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
+		C539C3082C19CB0D005BDED0 /* CTXMAMContainment.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = C539C3002C19CB08005BDED0 /* CTXMAMContainment.xcframework */; };
+		C539C3092C19CB0D005BDED0 /* CTXMAMContainment.xcframework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = C539C3002C19CB08005BDED0 /* CTXMAMContainment.xcframework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
+		C539C30A2C19CB0F005BDED0 /* CTXMAMLocalAuth.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = C539C3022C19CB08005BDED0 /* CTXMAMLocalAuth.xcframework */; };
+		C539C30B2C19CB0F005BDED0 /* CTXMAMLocalAuth.xcframework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = C539C3022C19CB08005BDED0 /* CTXMAMLocalAuth.xcframework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -35,6 +49,26 @@
 		};
 /* End PBXContainerItemProxy section */
 
+/* Begin PBXCopyFilesBuildPhase section */
+		C539C2F92C19C939005BDED0 /* Embed Frameworks */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = "";
+			dstSubfolderSpec = 10;
+			files = (
+				C539C3092C19CB0D005BDED0 /* CTXMAMContainment.xcframework in Embed Frameworks */,
+				C539C2FF2C19C93E005BDED0 /* CTXMAMNetwork.xcframework in Embed Frameworks */,
+				C539C2FD2C19C93D005BDED0 /* CTXMAMCore.xcframework in Embed Frameworks */,
+				C539C30B2C19CB0F005BDED0 /* CTXMAMLocalAuth.xcframework in Embed Frameworks */,
+				C539C2FB2C19C93B005BDED0 /* CTXMAMAppCore.xcframework in Embed Frameworks */,
+				C539C2F82C19C939005BDED0 /* CitrixLogger.xcframework in Embed Frameworks */,
+				C539C3072C19CB0B005BDED0 /* CTXMAMCompliance.xcframework in Embed Frameworks */,
+			);
+			name = "Embed Frameworks";
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
 /* Begin PBXFileReference section */
 		C539C2BA2C19C567005BDED0 /* CTXMAMCodeCoverageFail.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CTXMAMCodeCoverageFail.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		C539C2BD2C19C567005BDED0 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -50,6 +84,13 @@
 		C539C2DE2C19C56B005BDED0 /* CTXMAMCodeCoverageFailUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CTXMAMCodeCoverageFailUITests.swift; sourceTree = "<group>"; };
 		C539C2E02C19C56B005BDED0 /* CTXMAMCodeCoverageFailUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CTXMAMCodeCoverageFailUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		C539C2ED2C19C819005BDED0 /* CTXMAMCodeCoverageFail.xctestplan */ = {isa = PBXFileReference; lastKnownFileType = text; path = CTXMAMCodeCoverageFail.xctestplan; sourceTree = "<group>"; };
+		C539C2EF2C19C933005BDED0 /* CTXMAMAppCore.xcframework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcframework; path = CTXMAMAppCore.xcframework; sourceTree = "<group>"; };
+		C539C2F02C19C933005BDED0 /* CTXMAMNetwork.xcframework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcframework; path = CTXMAMNetwork.xcframework; sourceTree = "<group>"; };
+		C539C2F12C19C933005BDED0 /* CTXMAMCore.xcframework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcframework; path = CTXMAMCore.xcframework; sourceTree = "<group>"; };
+		C539C2F22C19C933005BDED0 /* CitrixLogger.xcframework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcframework; path = CitrixLogger.xcframework; sourceTree = "<group>"; };
+		C539C3002C19CB08005BDED0 /* CTXMAMContainment.xcframework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcframework; path = CTXMAMContainment.xcframework; sourceTree = "<group>"; };
+		C539C3012C19CB08005BDED0 /* CTXMAMCompliance.xcframework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcframework; path = CTXMAMCompliance.xcframework; sourceTree = "<group>"; };
+		C539C3022C19CB08005BDED0 /* CTXMAMLocalAuth.xcframework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcframework; path = CTXMAMLocalAuth.xcframework; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +98,13 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C539C2FE2C19C93E005BDED0 /* CTXMAMNetwork.xcframework in Frameworks */,
+				C539C2FC2C19C93D005BDED0 /* CTXMAMCore.xcframework in Frameworks */,
+				C539C3062C19CB0B005BDED0 /* CTXMAMCompliance.xcframework in Frameworks */,
+				C539C30A2C19CB0F005BDED0 /* CTXMAMLocalAuth.xcframework in Frameworks */,
+				C539C3082C19CB0D005BDED0 /* CTXMAMContainment.xcframework in Frameworks */,
+				C539C2FA2C19C93B005BDED0 /* CTXMAMAppCore.xcframework in Frameworks */,
+				C539C2F72C19C939005BDED0 /* CitrixLogger.xcframework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -82,6 +130,7 @@
 			children = (
 				C539C2ED2C19C819005BDED0 /* CTXMAMCodeCoverageFail.xctestplan */,
 				C539C2BC2C19C567005BDED0 /* CTXMAMCodeCoverageFail */,
+				C539C2EE2C19C8C2005BDED0 /* CitrixSDK */,
 				C539C2D32C19C56B005BDED0 /* CTXMAMCodeCoverageFailTests */,
 				C539C2DD2C19C56B005BDED0 /* CTXMAMCodeCoverageFailUITests */,
 				C539C2BB2C19C567005BDED0 /* Products */,
@@ -129,6 +178,20 @@
 			path = CTXMAMCodeCoverageFailUITests;
 			sourceTree = "<group>";
 		};
+		C539C2EE2C19C8C2005BDED0 /* CitrixSDK */ = {
+			isa = PBXGroup;
+			children = (
+				C539C2F22C19C933005BDED0 /* CitrixLogger.xcframework */,
+				C539C2EF2C19C933005BDED0 /* CTXMAMAppCore.xcframework */,
+				C539C3012C19CB08005BDED0 /* CTXMAMCompliance.xcframework */,
+				C539C3002C19CB08005BDED0 /* CTXMAMContainment.xcframework */,
+				C539C2F12C19C933005BDED0 /* CTXMAMCore.xcframework */,
+				C539C3022C19CB08005BDED0 /* CTXMAMLocalAuth.xcframework */,
+				C539C2F02C19C933005BDED0 /* CTXMAMNetwork.xcframework */,
+			);
+			path = CitrixSDK;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -139,6 +202,7 @@
 				C539C2B62C19C567005BDED0 /* Sources */,
 				C539C2B72C19C567005BDED0 /* Frameworks */,
 				C539C2B82C19C567005BDED0 /* Resources */,
+				C539C2F92C19C939005BDED0 /* Embed Frameworks */,
 			);
 			buildRules = (
 			);

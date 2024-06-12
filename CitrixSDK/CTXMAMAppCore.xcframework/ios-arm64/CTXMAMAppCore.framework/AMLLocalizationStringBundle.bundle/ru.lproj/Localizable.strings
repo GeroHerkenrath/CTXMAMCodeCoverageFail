@@ -1,0 +1,30 @@
+/* Localized versions of Info.plist keys */
+"Confirm your identity. Use Face ID for quick and secure access to the app." = "Подтвердите свою личность. Для быстрого и безопасного доступа к приложению используйте Face ID.";
+"Confirm your identity. Scan your finger for quick and secure access to the app." = "Подтвердите свою личность. Для быстрого и безопасного доступа к приложению отсканируйте отпечаток пальца.";
+// AML Errors start
+"An unexpected error occurred." = "Произошла непредвиденная ошибка.";
+"An internal error occurred." = "Произошла внутренняя ошибка.";
+"An invalid argument was passed." = "Передан недопустимый аргумент.";
+"The server responded with an unexpected content type value." = "Ответ сервера содержит непредвиденное значение типа содержимого.";
+"The server responded with an unexpected HTTP status code." = "Ответ сервера содержит непредвиденный код состояния HTTP.";
+"The server responded with an unexpected HTTP data value." = "Ответ сервера содержит непредвиденное значение данных HTTP.";
+"Encountered an unexpected server configuration." = "Непредвиденная конфигурация сервера.";
+"A parsing error occurred." = "Произошла ошибка разбора.";
+"An error occurred and the authentication view cannot be displayed." = "Произошла ошибка, поэтому представление проверки подлинности невозможно отобразить.";
+"You have closed the authentication view." = "Вы закрыли представление проверки подлинности.";
+"The network request has failed." = "Сбой выполнения сетевого запроса.";
+"The app denied the access to the authentication view." = "Приложение отказало в доступе к представлению проверки подлинности.";
+"Network request failed" = "Сбой выполнения сетевого запроса";
+"The Web view navigation has failed." = "Сбой перехода к веб-представлению.";
+"Your request to fetch the token was canceled." = "Запрос на извлечение маркера отменен.";
+"Encountered an invalid OpenID Connect (OIDC) authorization code." = "Недопустимый код авторизации OpenID Connect (OIDC).";
+"Biometric authentication has failed." = "Сбой биометрической проверки подлинности.";
+"Biometric authentication is not supported." = "Биометрическая проверка подлинности не поддерживается.";
+"Biometric authentication has failed due to inactivity." = "Сбой биометрической проверки подлинности из-за бездействия.";
+"The operation was canceled." = "Операция отменена.";
+// AML Errors end
+//OfflineModeBanner messages start
+
+"Having trouble signing in?" = "Не удается войти?";
+"Use Workspace offline" = "Использовать Workspace автономно";
+//OfflineModeBanner messages end
