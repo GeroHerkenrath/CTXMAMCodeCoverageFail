@@ -99,11 +99,5 @@ delegate callback.
  @brief Set Cordova framework relevant info after SDKs are initialized.
  */
 + (void)setCordovaInfoAfterBeingInitialized;
-
-/*!
-@brief This API is used to retrieve whether both the SDK and policy are ready.
-@return Returns YES if both the SDK and policy are ready; otherwise, it returns NO if either the SDK or policy is not ready.
-*/
-+ (BOOL)isSDKAndPolicyReady;
 @end
 
